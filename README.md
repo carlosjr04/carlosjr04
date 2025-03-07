@@ -48,4 +48,10 @@ During the college i learned several languages like Python,C,Java,Typescript and
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjr04&layout=compact&langs_count=10&theme=dracula" />
 </p>
 
+## 📫 Connect with me:
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosjr0421@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-júnior-88998b202/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/eddd2104)
+
 
