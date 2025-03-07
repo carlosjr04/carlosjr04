@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<p>I'm Carlos Alberto, a passionate developer with a focus on Front-end. I am studying in UFF(Universidade Federal Fluminense), a university in Rio de Janeiro.
-During the college i learned several languages like Python,C,Java,Typescript and others. But, i have more knowledge about Typescript.
+<p>I'm Carlos Alberto, a passionate developer focused on Front-end development. I am studying at UFF (Universidade Federal Fluminense), a university in Rio de Janeiro. 
+During college, I have learned several programming languages, including Python, C, Java, TypeScript, and others. However, I have the most expertise in TypeScript.
 </p>
 
 
