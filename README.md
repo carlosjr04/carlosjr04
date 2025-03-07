@@ -45,19 +45,7 @@ During the college i learned several languages like Python,C,Java,Typescript and
 ## 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=10&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjr04&layout=compact&langs_count=10&theme=dracula" />
 </p>
 
-<!---
-- 👋 Hi, I’m @carlosjr04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-
-carlosjr04/carlosjr04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
