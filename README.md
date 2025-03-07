@@ -1,11 +1,8 @@
-<h1 align="center">Olá, eu sou Carlos Alberto</h1>
-<h3 align="center">Estudante de Ciencia da Computação na UFF</h3>
+<h1 align="center">Hi there! 👋e</h1>
 
-- 💬 Pode me perguntar sobre **C, Python e Java**
-
-- 🌱 Estou aprendendo **Javascript e Rust**
-
-- 📫 Email de contato é **carlosjr0421@gmail.com**
+<p>I'm Carlos Alberto, a passionate developer with a focus on Front-end. I am studying in UFF(Universidade Federal Fluminense), a university in Rio de Janeiro.
+During the college i learned several languages like Python,C,Java,Typescript and others. But, i have more knowledge about Typescript.
+</p>
 
 
 </p>
