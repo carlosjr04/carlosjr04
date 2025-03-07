@@ -34,6 +34,23 @@ During the college i learned several languages like Python,C,Java,Typescript and
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
+este código ao seu README.md para exibir os gráficos de estatísticas:
+
+md
+Copiar
+Editar
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyrtonSur&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyrtonSur&theme=dracula" />
+</p>
+
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=10&theme=dracula" />
+</p>
 
 <!---
 - 👋 Hi, I’m @carlosjr04
