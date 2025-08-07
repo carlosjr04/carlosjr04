@@ -4,8 +4,9 @@
 During college, I have learned several programming languages, including Python, C, Java, TypeScript, and others. However, I have the most expertise in TypeScript.
 </p>
 
-
-</p>
+<a href="https://carlosjr04.github.io/Portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-Visite%20agora-blue?style=for-the-badge&logo=google-chrome" />
+</a>
 
 ## My Skills
 
