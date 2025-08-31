@@ -1,4 +1,7 @@
-<h1 align="center">Hi there! 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370db&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6F6F6&size=35&center=true&vCenter=true&width=1000&lines=Carlos+Alberto;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+<br></br>
 
 <p>I'm Carlos Alberto, a passionate developer focused on Front-end development. I am studying at UFF (Universidade Federal Fluminense), a university in Rio de Janeiro. 
 During college, I have learned several programming languages, including Python, C, Java, TypeScript, and others. However, I have the most expertise in TypeScript.
@@ -48,6 +51,11 @@ During college, I have learned several programming languages, including Python, 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjr04&layout=compact&langs_count=10&theme=dracula" />
 </p>
+
+## 🏆 Git Trophies
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=carlosjr04&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## 📫 Connect with me:
 
